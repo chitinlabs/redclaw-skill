@@ -1,5 +1,9 @@
 # Redclaw Monitor — OpenClaw Skill
 
+> **This is the OpenClaw skill for [Redclaw](https://github.com/chitinlabs/redclaw).**
+> The skill is a thin client — you need a running Redclaw server to use it.
+> 👉 [Deploy the server](https://github.com/chitinlabs/redclaw)
+
 Monitor Reddit, HN, Lobsters, Bluesky, Mastodon, and custom RSS feeds for keywords. Get notified when your topics are mentioned. Manage your entire watchlist through natural language in Telegram, Discord, or WhatsApp.
 
 ## Prerequisites
